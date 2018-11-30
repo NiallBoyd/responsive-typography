@@ -45,6 +45,7 @@ article ol {
   margin-top: 0;
   margin-bottom: 1.3rem;
 }
+
 article header {
   border-bottom: 1px solid #999;
   margin-bottom: 1.3rem;
@@ -87,6 +88,7 @@ blockquote {
 
     margin-bottom: 1.4rem;
   }
+
   article header {
 
     margin-bottom: 1.4rem;
@@ -104,6 +106,7 @@ blockquote {
   }
 
 }
+
 @media only screen and (min-width: 60em) {
 
   html {
@@ -120,6 +123,7 @@ blockquote {
 
     margin-bottom: 1.5rem;
   }
+
   article header {
 
     margin-bottom: 1.5rem;
@@ -137,6 +141,7 @@ blockquote {
   }
 
 }
+
 @media only screen and (min-width: 90em) {
 
   html {
